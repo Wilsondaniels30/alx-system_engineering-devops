@@ -1,1 +1,2 @@
-ccc
+#!/bin/bash
+paste -d, - - | cut -d, -fl
